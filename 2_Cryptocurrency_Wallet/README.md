@@ -1,6 +1,6 @@
-# FinTech Finder Web Dapp
+# FinTech Talent Finder - Web Dapp
 ## Overview:
-Welcome! You *<u>(the user)</u>* assumes the role of a Fintech recruiter/ employer looking to hire a professional from our 'Fintech Finder' Web3 Dapp. The user can navigate the page to find a suitable canidate to hire and can base their decision upon different factors included in each canidate's profile. Such as:
+Welcome! You *<u>(the user)</u>* assume the role of a Fintech recruiter/ employer looking to hire a professional from our 'Fintech Finder' Web3 Dapp. The user can navigate the page to find a suitable canidate to hire and can base their decision upon different factors included in each canidate's profile. Such as:
 
 * Rating
 * Hourly rate
