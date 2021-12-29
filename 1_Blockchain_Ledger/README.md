@@ -5,11 +5,11 @@
 navigate to the folder and in the terminal run the Streamlit application by using:
 > `streamlit run pychain.py`.
 
-![terminal](images/terminal.png)
+![terminal](images/terminal.PNG)
 
 Once the program runs, it will open a new URL tab on your default web browser
 
-![pychain-genblock](images/pychain-genblock.png)
+![pychain-genblock](images/pychain-genblock.PNG)
 
 ---
 ### **TO USE:**
@@ -24,10 +24,10 @@ Once the program runs, it will open a new URL tab on your default web browser
 
 ### Notice how the Ledger updates to indicate the block has been added
 
-![pychain-block1](images/pychain-block1.png)
+![pychain-block1](images/pychain-block1.PNG)
 
 ### Play with the `Block Difficulty` and watch the Ledger grow
-![pychain-block2](images/pychain-block2.png)
+![pychain-block2](images/pychain-block2.PNG)
 
 ---
 ### **HOW TO VERIFY**
@@ -35,4 +35,4 @@ Verify the block contents and hashes 2 ways
 1. Validate the chain by clicking the `Validate Chain` button
 2. Use the `Block Inspector` drop-down menu to see specific block records
 
-    ![pychain-verify](images/pychain-verify.png)
+    ![pychain-verify](images/pychain-verify.PNG)
