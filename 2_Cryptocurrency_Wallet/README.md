@@ -20,29 +20,29 @@ The user can fetch and display their account balance associated with their Ether
     - <u>To update your `.env` file:</u> From your terminal, navigate to the project folder and open the file with `code SAMPLE.env` command (if you have vscode and have it added to your PATH, otherwise use which ever text editor you prefer). 
     - Copy the mnemonic seed phrase from Ganache to the `.env` file and save the file.
 
-![ganache1]("Images/ganache1.PNG")
+![ganache1](Images/ganache1.PNG)
 
-![SAMPLE_env]("Images/SAMPLE_env.PNG")
+![SAMPLE_env](Images/SAMPLE_env.PNG)
 
 3. To launch the Streamlit application, run the following command: `streamlit run fintech_finder.py`
 
 4. On the resulting webpage, select a candidate that you would like to hire from the appropriate drop-down menu. Then, enter the number of hours that you would like to hire them for. (Remember, you do not have a lot of ether in your account, so you cannot hire them for long!)
 
-![streamlit0]("Images/streamlit0.PNG")
+![streamlit0](Images/streamlit0.PNG)
 
 5. Click the Send Transaction button to sign and send the transaction with your Ethereum account information. If the transaction is successfully communicated to Ganache, validated, and added to a block, a resulting transaction hash code will be written to the Streamlit application sidebar.
 
-![streamlit1]("Images/streamlit1.PNG")
+![streamlit1](Images/streamlit1.PNG)
 
 5. Navigate to the Ganache accounts tab and locate your account (index 0).
 
-![ganache2]("Images/ganache2.PNG")
+![ganache2](Images/ganache2.PNG)
 
 6. Navigate to the Ganache transactions tab and locate the transaction.
 
-![ganache3]("Images/ganache3.PNG")
+![ganache3](Images/ganache3.PNG)
 
-![ganache4]("Images/ganache4.PNG")
+![ganache4](Images/ganache4.PNG)
 
 ---
 ### SYSTEM REQUIREMENTS
